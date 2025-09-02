@@ -171,7 +171,7 @@
     }
     printf("\n");
 
-    //Densidade Populacional
+    //Densidade Populacional.
     printf("Carta 1 Densidade Populacional: %.2f\n",Densidade_Populacional);
     printf("Carta 2 Densidade Populacional: %.2f\n",Densidade_Populacional_2);
     if(Densidade_Populacional<Densidade_Populacional_2) {
